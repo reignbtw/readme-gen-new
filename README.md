@@ -14,6 +14,7 @@
   The user should clone the repository from GitHub and download Node. Requires a file system and inquirer.
   ## Usage 
   Use inquirer from your command line to answer questions about your project
+  [youtube video](https://youtu.be/BNQQGqv7Iok)
   ## License 
   This project is license under MIT
   ## Contributing 
